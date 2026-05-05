@@ -1,0 +1,1 @@
+global.barGo = 0;
